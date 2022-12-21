@@ -13,5 +13,6 @@ const CONFIG = {
     mess: 'Ikaw nga kasiiiiiiii',
     messDesc: 'I LIKE YOU SINCE THE VERY FIRST DAY HAHSHAHA',
     btnAccept: 'AYOS KASI',
+    messLink: 'https://youtu.be/VQtonf1fv_s',
 
 }
